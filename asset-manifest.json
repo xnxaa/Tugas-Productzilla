@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tugas-Productzilla/static/css/main.e6c13ad2.css",
+    "main.js": "/Tugas-Productzilla/static/js/main.d3f2e9ca.js",
+    "static/js/787.0adc0c45.chunk.js": "/Tugas-Productzilla/static/js/787.0adc0c45.chunk.js",
+    "index.html": "/Tugas-Productzilla/index.html",
+    "main.e6c13ad2.css.map": "/Tugas-Productzilla/static/css/main.e6c13ad2.css.map",
+    "main.d3f2e9ca.js.map": "/Tugas-Productzilla/static/js/main.d3f2e9ca.js.map",
+    "787.0adc0c45.chunk.js.map": "/Tugas-Productzilla/static/js/787.0adc0c45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d3f2e9ca.js"
+  ]
+}
